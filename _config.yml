@@ -2,4 +2,4 @@ title: Hilbert's Space
 permalink: /:title
 theme: minima
 minima:
-  skin: dark
+  skin: auto
