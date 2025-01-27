@@ -1,7 +1,7 @@
 on: # Workflow for building and deploying a Jekyll site to GitHub Pages
   workflow_dispatch: # Allows you to run this workflow manually from the Actions tab
   push:
-    branches: ["main"] # Runs on pushes targeting the default branch
+    branches: main # Runs on pushes targeting the main branch
 
 permissions: # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
   contents: read
@@ -9,11 +9,11 @@ permissions: # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHu
   id-token: write
 
 concurrency:
-  group: "pages" # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+  group: pages # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
   cancel-in-progress: false # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@main
