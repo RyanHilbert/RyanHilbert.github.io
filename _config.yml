@@ -1,5 +1,5 @@
 title: Hilbert's Space
 permalink: /:title
-theme: minima
+remote_theme: jekyll/minima
 minima:
   skin: auto
