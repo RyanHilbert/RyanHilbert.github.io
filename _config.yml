@@ -1,7 +1,6 @@
 title: Hilbert's Space
 permalink: /:title
 remote_theme: jekyll/minima
-date_format: ""
 minima:
   skin: auto
 author:
