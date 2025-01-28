@@ -3,6 +3,3 @@ permalink: /:title
 remote_theme: jekyll/minima
 minima:
   skin: auto
-author:
-  name: Ryan Hilbert
-  email: ryan.j.hilbert@gmail.com
