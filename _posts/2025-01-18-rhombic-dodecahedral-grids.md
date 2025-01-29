@@ -2,10 +2,11 @@ Almost everyone defaults to cubes for their 3D [voxels](https://en.wikipedia.org
 but there are actually several [shapes capable of filling 3D space](https://en.wikipedia.org/wiki/Honeycomb_(geometry)#Space-filling_polyhedra).
 Here I'd like to explore the potential of the [rhombic dodecahedron](https://en.wikipedia.org/wiki/Rhombic_dodecahedron)
 as the basis for 3D grids, as it shares some useful properties with its closest 2D equivalent, the [regular hexagon](https://en.wikipedia.org/wiki/Hexagon#Regular_hexagon):
-# Relationship to Spheres
+## Relationship to Spheres
 Whereas a 2D [hexagonal tiling](https://en.wikipedia.org/wiki/Hexagonal_tiling#Circle_packing)
 is equivalent to the densest possible [circle packing](https://en.wikipedia.org/wiki/Circle_packing#Densest_packing),
 the 3D [rhombic dodecahedral honeycomb](https://en.wikipedia.org/wiki/Rhombic_dodecahedral_honeycomb)
 is similarly equivalent to the face-centered cubic (FCC) lattice, one of two densest possible [sphere packings](https://en.wikipedia.org/wiki/Close-packing_of_equal_spheres#Cannonball_problem).
 This means it is the most accurate tiling for representing movement between neighboring cells, with the smallest average difference between [taxicab](https://en.wikipedia.org/wiki/Taxicab_geometry)
 and [Euclidean](https://en.wikipedia.org/wiki/Euclidean_distance) distances.
+## Symmetry
