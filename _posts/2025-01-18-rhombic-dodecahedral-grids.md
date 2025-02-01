@@ -1,5 +1,7 @@
 <details><summary>A rotating rhombic dodecahedron</summary>
 
+<img title="A rotating rhombic dodecahedron" alt="A rotating rhombic dodecahedron" src=https://upload.wikimedia.org/wikipedia/commons/a/a1/Rhombicdodecahedron.gif>
+
 ![A rotating rhombic dodecahedron](https://upload.wikimedia.org/wikipedia/commons/a/a1/Rhombicdodecahedron.gif)
 
 </details>
