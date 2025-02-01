@@ -1,6 +1,8 @@
 <details><summary>A rotating rhombic dodecahedron</summary>
 
-![A rotating rhombic dodecahedron](https://upload.wikimedia.org/wikipedia/commons/a/a1/Rhombicdodecahedron.gif)</details>
+![A rotating rhombic dodecahedron](https://upload.wikimedia.org/wikipedia/commons/a/a1/Rhombicdodecahedron.gif)
+
+</details>
 
 <img title="A rhombic dodecahedron" alt="A rhombic dodecahedron" style=float:right src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Rhombic_dodecahedron_4color.png/288px-Rhombic_dodecahedron_4color.png>
 
