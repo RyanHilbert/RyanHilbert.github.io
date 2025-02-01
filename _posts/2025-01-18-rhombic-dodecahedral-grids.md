@@ -1,4 +1,5 @@
 <img title="A rhombic dodecahedron" alt="A rhombic dodecahedron" style=float:right src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Rhombic_dodecahedron_4color.png/288px-Rhombic_dodecahedron_4color.png>
+
 <img title="A rhombic dodecahedral honeycomb" alt="A rhombic dodecahedral honeycomb" style=float:right;clear:right src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Rhombic_dodecahedra.png/240px-Rhombic_dodecahedra.png>
 
 Almost everyone defaults to cubes for their 3D [voxels](https://en.wikipedia.org/wiki/Voxel#Computer_games),
