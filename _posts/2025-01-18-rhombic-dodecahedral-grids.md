@@ -1,8 +1,4 @@
-<details><summary>A rotating rhombic dodecahedron</summary>
-
-![A rotating rhombic dodecahedron](https://upload.wikimedia.org/wikipedia/commons/a/a1/Rhombicdodecahedron.gif)
-
-</details>
+![A rotating rhombic dodecahedron](https://upload.wikimedia.org/wikipedia/commons/a/a1/Rhombicdodecahedron.gif "A rotating rhombic dodecahedron")
 
 <img title="A rhombic dodecahedron" alt="A rhombic dodecahedron" style=float:right src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Rhombic_dodecahedron_4color.png/288px-Rhombic_dodecahedron_4color.png></img>
 
@@ -20,5 +16,3 @@ is similarly equivalent to the face-centered cubic (FCC) lattice, one of two den
 This means it is the most accurate tiling for representing movement between neighboring cells, with the smallest average difference between [taxicab](https://en.wikipedia.org/wiki/Taxicab_geometry)
 and [Euclidean](https://en.wikipedia.org/wiki/Euclidean_distance) distances.
 ## Symmetry
-
-<ul><li>A<li>B<li>C<li>D</ul>
