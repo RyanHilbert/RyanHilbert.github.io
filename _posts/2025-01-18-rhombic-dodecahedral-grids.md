@@ -11,6 +11,7 @@ Almost everyone defaults to cubes for their 3D [voxels](https://en.wikipedia.org
 but there are actually several [shapes capable of filling 3D space](https://en.wikipedia.org/wiki/Honeycomb_(geometry)#Space-filling_polyhedra).
 Here I'd like to explore the potential of the [rhombic dodecahedron](https://en.wikipedia.org/wiki/Rhombic_dodecahedron)
 as the basis for 3D grids, as it shares some useful properties with its closest 2D equivalent, the [regular hexagon](https://en.wikipedia.org/wiki/Hexagon#Regular_hexagon):
+
 ![A rotating rhombic dodecahedron](https://upload.wikimedia.org/wikipedia/commons/a/a1/Rhombicdodecahedron.gif "A rotating rhombic dodecahedron")
 ![A rotating rhombic dodecahedron](https://upload.wikimedia.org/wikipedia/commons/a/a1/Rhombicdodecahedron.gif "A rotating rhombic dodecahedron")
 <h2>Relationship to Spheres</h2>
