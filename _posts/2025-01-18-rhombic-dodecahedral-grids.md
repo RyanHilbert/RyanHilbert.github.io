@@ -20,3 +20,5 @@ is similarly equivalent to the face-centered cubic (FCC) lattice, one of two den
 This means it is the most accurate tiling for representing movement between neighboring cells, with the smallest average difference between [taxicab](https://en.wikipedia.org/wiki/Taxicab_geometry)
 and [Euclidean](https://en.wikipedia.org/wiki/Euclidean_distance) distances.
 ## Symmetry
+
+<ul><li>A<li>B<li>C<li>D</ul>
