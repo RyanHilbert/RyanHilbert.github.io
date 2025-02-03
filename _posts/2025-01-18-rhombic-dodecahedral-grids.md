@@ -1,12 +1,12 @@
 <details><summary>A rotating rhombic dodecahedron</summary>
 
-<img title="A rotating rhombic dodecahedron" alt="A rotating rhombic dodecahedron" src=https://upload.wikimedia.org/wikipedia/commons/a/a1/Rhombicdodecahedron.gif />
+<img title="A rotating rhombic dodecahedron" alt="A rotating rhombic dodecahedron" src=https://upload.wikimedia.org/wikipedia/commons/a/a1/Rhombicdodecahedron.gif></img>
 
 </details>
 
-<img title="A rhombic dodecahedron" alt="A rhombic dodecahedron" style=float:right src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Rhombic_dodecahedron_4color.png/288px-Rhombic_dodecahedron_4color.png />
+<img title="A rhombic dodecahedron" alt="A rhombic dodecahedron" style=float:right src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Rhombic_dodecahedron_4color.png/288px-Rhombic_dodecahedron_4color.png></img>
 
-<img title="A rhombic dodecahedral honeycomb" alt="A rhombic dodecahedral honeycomb" style=float:right;clear:right src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Rhombic_dodecahedra.png/240px-Rhombic_dodecahedra.png />
+<img title="A rhombic dodecahedral honeycomb" alt="A rhombic dodecahedral honeycomb" style=float:right;clear:right src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Rhombic_dodecahedra.png/240px-Rhombic_dodecahedra.png></img>
 
 Almost everyone defaults to cubes for their 3D [voxels](https://en.wikipedia.org/wiki/Voxel#Computer_games),
 but there are actually several [shapes capable of filling 3D space](https://en.wikipedia.org/wiki/Honeycomb_(geometry)#Space-filling_polyhedra).
